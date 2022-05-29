@@ -1,3 +1,4 @@
 Este es el color azul
 Un color muy lindo. 
 Un color muy azulado
+Este es el color azul, es un color presente en algunas banderas
