@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Rock!!!!!!
 
 Anna es el nombre de Tina, es una cantante, compositora, bailarina, y coreógrafa de nacionalidad suiza y origen estadounidense.
+=======
+Rock!!!
+Cuando se habla de Rock se habla de Tina Turner. 
+Una grande la veterana
+>>>>>>> d9ec24479dfb0b0696b13a9344cbbd1d7121ef40
